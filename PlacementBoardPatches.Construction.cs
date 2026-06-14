@@ -98,7 +98,7 @@ static partial class InventoryManagerPatch
     {
       boardStructure.Board = null;
       // this is copied from InventoryManager.PlacementMode to get the base cursor placement position
-      InventoryManager.ConstructionCursor.ThingTransformPosition = InputHelpers.GetCameraForwardGrid(0.6f, InventoryManager.ConstructionCursor.GetCursorOffset);
+      InventoryManager.ConstructionCursor.ThingTransformPosition = InputHelpers.GetCameraForwardGrid(0.6f, InventoryManager.ConstructionCursor.GetCursorOffset, out var _);
       InventoryManager.ConstructionCursor.ThingTransformRotation = InventoryManager.Parent.ThingTransformRotation;
       InventoryManager.CurrentRotation = InventoryManager.ConstructionCursor.ThingTransformRotation;
     }
