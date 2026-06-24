@@ -18,7 +18,7 @@
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <UserDir>$(HOMEDRIVE)$(HOMEPATH)</UserDir>
 
-    <ModName>LibConstruct</ModName>
+    <ModName>LibConstructReloaded</ModName>
 
     <MyStationeersDir>$(UserDir)\Documents\My Games\Stationeers\</MyStationeersDir>
     <ModOutputPath>$(MyStationeersDir)mods\$(ModName)\</ModOutputPath>

@@ -4,12 +4,12 @@
   <Author>WIKUS, tom_is_unlucky</Author>
   <Version>0.3.0</Version>
   <ModID>LibConstructReloaded</ModID>
-  <Description>[h1]LibConstruct[/h1]
+  <Description>[h1]LibConstructReloaded[/h1]
 This is a library for custom placement in Stationeers. It does nothing on its own but provides functionality to other mods.
 
 Currently this provides the board surface placement and base piece connections in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3505169479]Modular Consoles[/url].
 
-[url=https://github.com/tsholmes/StationeersLibConstruct]Source on Github[/url]
+[url=https://github.com/StationeersCommunityMods/LibConstruct]Source on Github[/url]
 This requires BepInEx and [url=https://github.com/StationeersLaunchPad/StationeersLaunchPad]StationeersLaunchPad[/url] v0.2.x
   </Description>
   <!-- All contents of ChangeLog should be changed for each publication for Steam workshop page -->
