@@ -21,7 +21,6 @@ This requires BepInEx and [url=https://github.com/StationeersLaunchPad/Stationee
   </ChangeLog>
   <Tags>
   </Tags>
-  <WorkshopHandle></WorkshopHandle>
   <Dependencies />
   <LoadBefore />
   <LoadAfter />
